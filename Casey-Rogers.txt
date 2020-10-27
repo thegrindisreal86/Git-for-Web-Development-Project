@@ -9,15 +9,23 @@
     4. What is the h1 tag used for? How many times should I use it on a page?
     The tag is used for Heading and you should only use it once.
     5. Name two tags that have required attributes
-    
+    href and img
     6. What do we put in the head of our HTML document? 
+    <head>
     7. What is an id? 
+    Identifier, used to identify an element when styling with CSS
     8. What elements can I add an id to? 
+    <div> <p> <h1> - <h6> <nav> <a> <ul> <li>
     9. How many times can I use the same id on a page? 
+    You can use it on only one element
     10. What is a class? 
+    Same as an ID, but used on multiple elements
     11. What elements can I add a class to? 
+
     12. How many times can I use the same class on a page? 
+    As many times as necessary
     13. How do I get my link to open in a new tab?
+    
     14. What is the alt attribute in the image tag used for? 
     15. How do I reference an id?
     16. What is the difference between a section and a div
