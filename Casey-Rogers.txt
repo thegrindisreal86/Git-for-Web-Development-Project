@@ -60,10 +60,8 @@
     }
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
     text-transform:uppercase; text-transform:Capitalize; text-transform:lowercase;
-    
     28. How do I add a 1px border around my div that is dotted and black?
     border:10px dotted #black;
-
     29. How do I select everything on the page?
     body{
 
